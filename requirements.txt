@@ -1,0 +1,5 @@
+diffusers==0.32.1
+huggingface_hub==0.23.5
+torch==2.5.0
+lycoris_lora==3.1.1.post1
+
