@@ -5,7 +5,11 @@
 Read the [SimpleTuner](https://github.com/bghira/SimpleTuner/) README and tutorial to learn how you can train an AI 
 model to create images of a specific person.
 
-Here are examples of my configuration files:
+I used 17 images like this in [examples/mikrei-new-training/](examples/mikrei-new-training/) to train a LyCORIS LoRA on top of the `terminusresearch/sana-1.6b-1024px` model.
+
+![mikko12.jpg](https://raw.githubusercontent.com/mtreinik/ai-image-generation/refs/heads/main/examples/mikrei-new-training/mikko12.jpg)
+
+Here are my configuration files:
 
 - config.json
 ```
